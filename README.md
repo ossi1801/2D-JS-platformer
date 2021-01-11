@@ -1,2 +1,2 @@
 # kariobrous
-js kario game for browser ~2014
+js 2dplatformer game for browser ~2014
